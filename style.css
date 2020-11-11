@@ -1,1 +1,3 @@
-.newsletter h2 {color: red;}
+footer .newsletter h2 {color: red;}
+
+footer nav.newsletter > input[type="email"]:invalid {background-color: red}
